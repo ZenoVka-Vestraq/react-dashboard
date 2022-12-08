@@ -1,6 +1,6 @@
 ## Visit the gh-pages website with the link below
 
-Click here -> ### https://zenovka-vestraq.github.io/line
+### Click here -> https://zenovka-vestraq.github.io/line
 
 # Getting Started with Create React App
 
